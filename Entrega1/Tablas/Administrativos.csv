@@ -1,4 +1,4 @@
-pid,unidad,calificacion,jefe
+pid,uid,calificacion,jefe
 2,1,8.8,TRUE
 3,1,5,FALSE
 6,3,7.2,FALSO

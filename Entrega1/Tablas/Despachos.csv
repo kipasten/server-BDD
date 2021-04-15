@@ -1,9 +1,9 @@
-id despacho,fecha,unidad_origen,destino,id_compra,vid
+id despacho,fecha,uid,destino,id_compra,vid
 1,2020-08-15,1,Calle Walker Martínez 3566,2,2
 2,2020-08-15,1,Pasaje Las Encinas 1630,23,5
 3,2020-09-23,2,Calle Larrain 6642,54,4
 4,2021-02-28,4,"Calle Vecinal Sur, 1648",10,3
-5,2020-08-15,5,Avenida Presidente Eduardo Frei Montalva 1651 - Local 35,15,9
+5,2020-08-15,5,Avenida Presidente Eduardo Frei Montalva 1651,15,9
 6,2021-01-30,5,Alcalde Pedro Alarcón 734,68,7
 7,2021-03-26,6,Calle Simón Bolívar 2393,33,1
 8,2020-08-04,7,Calle Antonio Ebner 1303,14,5
