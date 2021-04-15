@@ -2,11 +2,11 @@ vid,uid,patente,estado,tipo
 1,1,HAAH10,activo ,moto
 2,1,KSQI89,mantencion,auto
 3,2,KASW75,activo ,bicicleta
-4,3,SDWA56,activo ,camion
-5,3,BDAA13,activo ,camion
+4,4,SDWA56,activo ,camion
+5,4,BDAA13,activo ,camion
 6,4,HJSS32,mantencion,auto
 7,5,YMCA12,activo ,bicicleta
 8,6,JFTL28,mantencion,moto
-9,7,QWSD21,activo ,camion
+9,6,QWSD21,activo ,camion
 10,8,UMAE92,activo ,auto
 11,8,MTGH59,activo ,camioneta
