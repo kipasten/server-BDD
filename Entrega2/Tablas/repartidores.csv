@@ -1,0 +1,1654 @@
+0,91,auto,52
+1,122,auto,58
+2,616,moto,63
+3,84,no es necesaria,82
+4,768,auto,56
+5,350,moto,15
+6,21,auto,31
+7,414,auto,12
+8,555,no es necesaria,96
+9,813,moto,111
+10,467,moto,92
+11,309,no es necesaria,82
+12,644,vehiculo de carga,65
+13,689,auto,18
+14,34,auto,28
+15,552,no es necesaria,34
+16,383,no es necesaria,16
+17,327,vehiculo de carga,86
+18,577,no es necesaria,53
+19,167,no es necesaria,53
+20,479,auto,114
+21,376,auto,46
+22,728,no es necesaria,108
+23,321,auto,99
+24,753,moto,24
+25,441,moto,9
+26,652,auto,38
+27,289,moto,11
+28,758,auto,66
+29,540,no es necesaria,112
+30,432,auto,33
+31,823,vehiculo de carga,86
+32,444,vehiculo de carga,23
+33,99,auto,109
+34,525,auto,39
+35,232,auto,41
+36,183,no es necesaria,21
+37,1,moto,89
+38,758,moto,111
+39,103,vehiculo de carga,26
+40,345,auto,43
+41,670,moto,27
+42,521,moto,91
+43,813,moto,92
+44,44,auto,7
+45,658,moto,10
+46,403,no es necesaria,108
+47,785,auto,100
+48,318,auto,7
+49,273,no es necesaria,21
+50,93,vehiculo de carga,65
+51,625,auto,59
+52,536,moto,11
+53,127,no es necesaria,112
+54,168,moto,97
+55,39,vehiculo de carga,49
+56,599,auto,43
+57,635,moto,63
+58,269,vehiculo de carga,23
+59,384,no es necesaria,45
+60,168,auto,4
+61,93,no es necesaria,82
+62,535,moto,80
+63,285,vehiculo de carga,23
+64,763,moto,98
+65,486,auto,38
+66,385,moto,98
+67,667,auto,103
+68,358,auto,25
+69,691,moto,80
+70,0,moto,72
+71,3,auto,84
+72,344,auto,109
+73,555,moto,98
+74,347,auto,103
+75,455,auto,7
+76,172,vehiculo de carga,65
+77,520,no es necesaria,74
+78,382,auto,93
+79,11,auto,114
+80,507,no es necesaria,74
+81,200,auto,59
+82,395,no es necesaria,62
+83,24,auto,85
+84,467,no es necesaria,50
+85,115,auto,77
+86,503,vehiculo de carga,17
+87,495,auto,73
+88,235,auto,59
+89,608,moto,61
+90,567,auto,64
+91,266,vehiculo de carga,83
+92,353,auto,14
+93,710,auto,58
+94,266,auto,25
+95,15,moto,79
+96,40,auto,14
+97,185,auto,114
+98,400,moto,80
+99,671,auto,46
+100,259,auto,75
+101,394,moto,48
+102,36,auto,93
+103,274,moto,79
+104,554,vehiculo de carga,68
+105,464,moto,3
+106,184,auto,14
+107,777,no es necesaria,35
+108,616,auto,58
+109,357,vehiculo de carga,17
+110,677,auto,46
+111,496,moto,76
+112,679,auto,33
+113,100,auto,56
+114,227,moto,11
+115,281,auto,43
+116,340,auto,51
+117,475,moto,92
+118,323,moto,89
+119,82,auto,81
+120,142,vehiculo de carga,26
+121,269,auto,105
+122,664,auto,14
+123,568,auto,7
+124,382,no es necesaria,50
+125,140,auto,46
+126,393,auto,46
+127,356,auto,43
+128,335,auto,46
+129,120,vehiculo de carga,70
+130,797,vehiculo de carga,70
+131,484,auto,32
+132,198,auto,46
+133,429,no es necesaria,104
+134,485,auto,55
+135,28,auto,95
+136,96,vehiculo de carga,70
+137,124,no es necesaria,82
+138,517,auto,109
+139,61,no es necesaria,104
+140,425,vehiculo de carga,70
+141,416,moto,9
+142,524,moto,48
+143,365,no es necesaria,45
+144,3,auto,33
+145,296,auto,66
+146,598,no es necesaria,6
+147,149,auto,31
+148,259,auto,100
+149,463,auto,66
+150,566,auto,58
+151,396,vehiculo de carga,17
+152,24,auto,102
+153,194,moto,9
+154,205,auto,4
+155,158,auto,85
+156,619,vehiculo de carga,115
+157,595,auto,58
+158,678,moto,10
+159,220,auto,100
+160,620,moto,89
+161,377,auto,88
+162,676,auto,32
+163,298,auto,51
+164,351,moto,91
+165,435,moto,69
+166,265,moto,15
+167,581,auto,19
+168,663,auto,51
+169,366,no es necesaria,35
+170,814,moto,79
+171,452,auto,102
+172,362,auto,90
+173,676,auto,41
+174,274,no es necesaria,45
+175,283,no es necesaria,50
+176,173,auto,19
+177,803,moto,3
+178,102,vehiculo de carga,65
+179,442,no es necesaria,30
+180,474,no es necesaria,6
+181,516,no es necesaria,22
+182,612,moto,76
+183,2,moto,61
+184,286,auto,7
+185,697,no es necesaria,108
+186,643,auto,88
+187,284,auto,7
+188,89,auto,19
+189,126,auto,81
+190,353,auto,51
+191,86,auto,90
+192,362,auto,109
+193,410,auto,18
+194,145,moto,78
+195,674,auto,64
+196,385,auto,32
+197,709,auto,28
+198,773,auto,113
+199,712,no es necesaria,21
+200,706,no es necesaria,34
+201,178,no es necesaria,50
+202,109,auto,12
+203,238,auto,28
+204,210,auto,32
+205,744,auto,2
+206,365,vehiculo de carga,86
+207,380,auto,109
+208,639,auto,93
+209,790,no es necesaria,42
+210,705,moto,11
+211,59,auto,4
+212,725,auto,14
+213,486,auto,103
+214,299,moto,80
+215,128,no es necesaria,35
+216,141,auto,0
+217,505,moto,8
+218,566,no es necesaria,108
+219,409,no es necesaria,42
+220,189,moto,24
+221,663,no es necesaria,22
+222,154,vehiculo de carga,17
+223,779,auto,12
+224,693,no es necesaria,6
+225,566,auto,19
+226,196,auto,105
+227,818,auto,0
+228,131,auto,31
+229,315,no es necesaria,22
+230,403,auto,14
+231,407,moto,1
+232,53,auto,40
+233,745,auto,102
+234,475,auto,105
+235,435,auto,18
+236,631,auto,36
+237,329,auto,105
+238,629,auto,51
+239,634,vehiculo de carga,83
+240,36,no es necesaria,62
+241,643,auto,102
+242,422,auto,33
+243,421,no es necesaria,108
+244,173,no es necesaria,96
+245,705,vehiculo de carga,23
+246,26,no es necesaria,6
+247,329,vehiculo de carga,115
+248,302,auto,31
+249,148,no es necesaria,42
+250,246,no es necesaria,29
+251,365,auto,87
+252,390,auto,71
+253,179,vehiculo de carga,68
+254,327,no es necesaria,53
+255,487,auto,73
+256,606,auto,113
+257,219,moto,97
+258,514,moto,78
+259,514,vehiculo de carga,49
+260,763,auto,81
+261,361,vehiculo de carga,107
+262,400,auto,36
+263,710,auto,71
+264,592,auto,52
+265,479,no es necesaria,42
+266,156,no es necesaria,6
+267,25,auto,84
+268,347,no es necesaria,53
+269,598,no es necesaria,16
+270,536,moto,8
+271,579,auto,101
+272,415,vehiculo de carga,83
+273,460,auto,58
+274,371,auto,110
+275,484,no es necesaria,67
+276,794,auto,19
+277,617,no es necesaria,44
+278,694,no es necesaria,6
+279,722,no es necesaria,22
+280,669,auto,106
+281,632,auto,110
+282,287,auto,25
+283,283,auto,19
+284,805,moto,72
+285,199,auto,87
+286,38,moto,1
+287,815,auto,59
+288,15,no es necesaria,35
+289,655,no es necesaria,16
+290,435,auto,13
+291,618,moto,10
+292,695,auto,87
+293,531,auto,64
+294,177,auto,84
+295,777,auto,71
+296,665,no es necesaria,21
+297,692,moto,24
+298,415,no es necesaria,74
+299,551,auto,5
+300,23,auto,114
+301,552,auto,103
+302,478,moto,37
+303,758,auto,31
+304,813,auto,18
+305,58,vehiculo de carga,49
+306,248,auto,59
+307,646,vehiculo de carga,26
+308,391,auto,14
+309,382,auto,85
+310,695,vehiculo de carga,26
+311,14,no es necesaria,35
+312,591,auto,18
+313,302,no es necesaria,112
+314,58,moto,3
+315,29,vehiculo de carga,86
+316,251,auto,58
+317,314,auto,7
+318,711,auto,40
+319,415,moto,24
+320,276,vehiculo de carga,65
+321,577,no es necesaria,74
+322,812,auto,31
+323,617,auto,14
+324,773,auto,105
+325,601,no es necesaria,35
+326,210,moto,72
+327,126,no es necesaria,108
+328,488,moto,79
+329,791,no es necesaria,53
+330,160,auto,32
+331,220,auto,101
+332,21,auto,41
+333,15,auto,99
+334,509,moto,11
+335,285,auto,93
+336,553,moto,10
+337,109,moto,72
+338,389,moto,69
+339,562,auto,109
+340,460,no es necesaria,108
+341,26,auto,66
+342,71,auto,0
+343,630,auto,64
+344,368,no es necesaria,35
+345,503,auto,40
+346,460,moto,15
+347,683,auto,105
+348,240,auto,7
+349,642,auto,85
+350,671,auto,85
+351,174,auto,73
+352,725,no es necesaria,94
+353,633,moto,9
+354,576,vehiculo de carga,115
+355,534,auto,114
+356,720,no es necesaria,21
+357,221,auto,88
+358,332,vehiculo de carga,65
+359,502,auto,4
+360,397,vehiculo de carga,115
+361,357,no es necesaria,42
+362,277,auto,109
+363,728,auto,33
+364,403,auto,59
+365,402,auto,109
+366,804,no es necesaria,44
+367,205,moto,97
+368,1,auto,32
+369,463,auto,93
+370,3,auto,12
+371,43,vehiculo de carga,17
+372,167,vehiculo de carga,54
+373,125,vehiculo de carga,115
+374,75,no es necesaria,30
+375,704,no es necesaria,29
+376,86,moto,91
+377,667,auto,43
+378,723,no es necesaria,22
+379,603,moto,91
+380,790,auto,13
+381,58,no es necesaria,67
+382,733,no es necesaria,21
+383,706,moto,69
+384,470,moto,8
+385,192,auto,87
+386,332,auto,18
+387,262,auto,105
+388,430,moto,78
+389,818,moto,80
+390,213,no es necesaria,96
+391,760,moto,78
+392,576,no es necesaria,53
+393,254,auto,75
+394,318,auto,102
+395,274,no es necesaria,94
+396,470,auto,12
+397,436,auto,13
+398,414,no es necesaria,35
+399,452,auto,40
+400,445,vehiculo de carga,54
+401,458,vehiculo de carga,20
+402,539,no es necesaria,50
+403,761,auto,66
+404,762,no es necesaria,21
+405,316,auto,0
+406,233,auto,58
+407,51,auto,51
+408,236,auto,18
+409,23,no es necesaria,50
+410,379,moto,15
+411,633,vehiculo de carga,23
+412,818,moto,80
+413,328,auto,114
+414,557,auto,85
+415,245,auto,28
+416,792,moto,91
+417,127,vehiculo de carga,49
+418,726,auto,85
+419,95,moto,80
+420,762,vehiculo de carga,17
+421,287,auto,66
+422,288,no es necesaria,35
+423,216,moto,78
+424,329,no es necesaria,22
+425,264,auto,81
+426,556,vehiculo de carga,68
+427,142,auto,102
+428,738,auto,103
+429,367,moto,111
+430,250,moto,3
+431,574,auto,55
+432,733,auto,52
+433,722,auto,28
+434,687,auto,38
+435,228,auto,93
+436,316,auto,5
+437,778,auto,31
+438,463,no es necesaria,62
+439,425,auto,36
+440,664,moto,92
+441,213,moto,3
+442,151,no es necesaria,34
+443,144,auto,106
+444,702,vehiculo de carga,107
+445,379,no es necesaria,62
+446,65,auto,85
+447,680,auto,19
+448,711,auto,7
+449,536,no es necesaria,53
+450,402,auto,64
+451,410,vehiculo de carga,70
+452,526,moto,9
+453,351,auto,39
+454,371,auto,46
+455,247,moto,11
+456,372,auto,105
+457,377,auto,105
+458,702,moto,63
+459,773,auto,39
+460,702,moto,37
+461,425,moto,11
+462,116,no es necesaria,96
+463,759,auto,85
+464,230,auto,99
+465,137,no es necesaria,82
+466,720,auto,57
+467,661,auto,75
+468,799,auto,66
+469,512,auto,46
+470,798,vehiculo de carga,107
+471,75,moto,3
+472,708,moto,61
+473,73,moto,72
+474,160,auto,7
+475,151,auto,77
+476,288,no es necesaria,44
+477,300,auto,58
+478,385,vehiculo de carga,20
+479,165,vehiculo de carga,23
+480,515,auto,18
+481,783,moto,63
+482,362,auto,7
+483,608,auto,38
+484,378,auto,33
+485,745,no es necesaria,16
+486,61,auto,85
+487,690,no es necesaria,29
+488,718,no es necesaria,108
+489,737,auto,77
+490,200,moto,97
+491,611,vehiculo de carga,26
+492,459,auto,46
+493,446,auto,90
+494,694,moto,61
+495,25,auto,87
+496,222,auto,64
+497,631,auto,12
+498,245,no es necesaria,22
+499,600,moto,15
+500,396,moto,27
+501,682,vehiculo de carga,49
+502,416,auto,46
+503,564,auto,25
+504,474,auto,77
+505,394,auto,31
+506,259,auto,56
+507,628,vehiculo de carga,54
+508,689,auto,101
+509,100,auto,95
+510,601,auto,4
+511,104,auto,33
+512,397,no es necesaria,42
+513,687,no es necesaria,22
+514,131,no es necesaria,30
+515,606,moto,8
+516,631,auto,84
+517,388,no es necesaria,42
+518,785,no es necesaria,50
+519,34,moto,15
+520,436,auto,33
+521,410,auto,31
+522,448,vehiculo de carga,65
+523,620,auto,73
+524,720,moto,80
+525,474,no es necesaria,44
+526,331,auto,33
+527,335,no es necesaria,35
+528,160,auto,57
+529,816,auto,19
+530,548,auto,14
+531,804,moto,10
+532,772,vehiculo de carga,20
+533,507,auto,32
+534,512,moto,61
+535,614,auto,85
+536,242,moto,98
+537,323,moto,1
+538,133,moto,15
+539,146,auto,85
+540,785,auto,75
+541,286,vehiculo de carga,23
+542,556,no es necesaria,62
+543,99,no es necesaria,62
+544,704,vehiculo de carga,17
+545,570,auto,52
+546,395,auto,12
+547,513,auto,106
+548,505,no es necesaria,62
+549,519,no es necesaria,74
+550,378,no es necesaria,6
+551,277,auto,32
+552,612,no es necesaria,50
+553,635,moto,3
+554,520,auto,4
+555,270,no es necesaria,6
+556,267,no es necesaria,67
+557,618,auto,56
+558,67,moto,92
+559,515,no es necesaria,34
+560,560,no es necesaria,22
+561,823,moto,48
+562,559,auto,13
+563,151,auto,73
+564,621,auto,33
+565,412,auto,81
+566,230,no es necesaria,94
+567,488,vehiculo de carga,17
+568,253,no es necesaria,67
+569,681,no es necesaria,29
+570,199,no es necesaria,45
+571,239,moto,24
+572,221,no es necesaria,42
+573,321,moto,24
+574,141,vehiculo de carga,20
+575,129,auto,85
+576,464,moto,76
+577,609,auto,2
+578,608,moto,79
+579,731,moto,80
+580,546,auto,28
+581,801,auto,12
+582,42,no es necesaria,42
+583,568,moto,15
+584,114,vehiculo de carga,17
+585,570,auto,14
+586,376,no es necesaria,16
+587,133,no es necesaria,45
+588,4,moto,63
+589,793,auto,40
+590,55,auto,14
+591,269,auto,19
+592,109,auto,103
+593,33,no es necesaria,45
+594,296,auto,87
+595,672,no es necesaria,74
+596,458,auto,52
+597,756,auto,85
+598,34,moto,1
+599,93,vehiculo de carga,49
+600,653,moto,10
+601,317,auto,75
+602,85,auto,85
+603,355,no es necesaria,60
+604,216,moto,15
+605,344,auto,38
+606,33,vehiculo de carga,23
+607,661,no es necesaria,35
+608,104,auto,110
+609,680,auto,64
+610,9,auto,77
+611,557,no es necesaria,45
+612,551,auto,0
+613,683,moto,8
+614,584,moto,97
+615,809,auto,106
+616,262,moto,3
+617,496,auto,14
+618,703,auto,95
+619,331,auto,38
+620,478,no es necesaria,21
+621,172,vehiculo de carga,23
+622,346,no es necesaria,35
+623,723,auto,5
+624,268,no es necesaria,96
+625,508,vehiculo de carga,26
+626,375,moto,61
+627,736,auto,90
+628,334,no es necesaria,34
+629,590,auto,28
+630,452,vehiculo de carga,115
+631,44,no es necesaria,47
+632,128,auto,51
+633,467,auto,99
+634,619,auto,71
+635,741,auto,100
+636,385,vehiculo de carga,83
+637,601,auto,73
+638,309,moto,69
+639,157,no es necesaria,94
+640,315,no es necesaria,104
+641,603,no es necesaria,50
+642,496,auto,13
+643,715,no es necesaria,21
+644,760,auto,14
+645,97,vehiculo de carga,65
+646,416,auto,81
+647,561,moto,15
+648,645,no es necesaria,34
+649,172,no es necesaria,82
+650,354,moto,91
+651,304,moto,111
+652,581,moto,48
+653,584,vehiculo de carga,54
+654,79,no es necesaria,42
+655,791,moto,48
+656,4,vehiculo de carga,68
+657,55,auto,5
+658,487,auto,12
+659,214,auto,102
+660,542,no es necesaria,62
+661,39,no es necesaria,96
+662,324,no es necesaria,53
+663,800,no es necesaria,47
+664,181,auto,31
+665,475,vehiculo de carga,26
+666,820,moto,76
+667,543,vehiculo de carga,54
+668,91,moto,9
+669,612,auto,55
+670,189,auto,109
+671,363,auto,5
+672,243,auto,88
+673,582,auto,52
+674,0,vehiculo de carga,26
+675,55,auto,38
+676,567,no es necesaria,6
+677,258,auto,100
+678,809,vehiculo de carga,70
+679,582,moto,98
+680,149,auto,87
+681,267,auto,84
+682,227,auto,81
+683,577,no es necesaria,104
+684,753,moto,1
+685,228,auto,38
+686,199,auto,77
+687,818,no es necesaria,96
+688,222,moto,61
+689,123,vehiculo de carga,86
+690,486,auto,41
+691,472,auto,116
+692,760,moto,72
+693,367,auto,100
+694,73,no es necesaria,53
+695,103,moto,48
+696,161,auto,71
+697,797,auto,4
+698,441,auto,12
+699,711,auto,32
+700,333,moto,98
+701,798,vehiculo de carga,70
+702,495,moto,9
+703,28,auto,105
+704,228,no es necesaria,16
+705,397,auto,90
+706,119,auto,46
+707,505,moto,9
+708,179,moto,79
+709,803,auto,77
+710,123,auto,32
+711,642,vehiculo de carga,68
+712,141,auto,99
+713,217,auto,93
+714,275,moto,1
+715,306,auto,57
+716,222,moto,97
+717,682,auto,101
+718,639,auto,56
+719,399,no es necesaria,22
+720,680,no es necesaria,108
+721,465,no es necesaria,45
+722,23,auto,38
+723,628,no es necesaria,42
+724,8,no es necesaria,53
+725,354,auto,100
+726,442,vehiculo de carga,70
+727,804,moto,3
+728,550,auto,102
+729,591,vehiculo de carga,20
+730,816,moto,10
+731,217,auto,64
+732,395,moto,63
+733,414,no es necesaria,96
+734,224,vehiculo de carga,49
+735,700,auto,57
+736,590,no es necesaria,50
+737,146,auto,73
+738,219,auto,46
+739,530,auto,13
+740,350,no es necesaria,34
+741,608,no es necesaria,45
+742,358,auto,109
+743,154,moto,37
+744,6,vehiculo de carga,83
+745,574,moto,98
+746,228,auto,14
+747,29,auto,81
+748,432,auto,28
+749,731,auto,75
+750,140,no es necesaria,22
+751,137,auto,43
+752,546,auto,66
+753,508,vehiculo de carga,68
+754,701,auto,2
+755,248,no es necesaria,50
+756,554,auto,19
+757,51,auto,28
+758,282,auto,75
+759,43,auto,81
+760,467,moto,27
+761,548,no es necesaria,42
+762,390,moto,69
+763,493,auto,90
+764,253,auto,84
+765,756,auto,77
+766,145,moto,69
+767,142,auto,41
+768,787,auto,99
+769,394,auto,105
+770,188,auto,77
+771,683,auto,105
+772,564,moto,61
+773,630,auto,105
+774,595,moto,91
+775,475,no es necesaria,45
+776,376,auto,38
+777,446,auto,109
+778,236,no es necesaria,22
+779,32,moto,91
+780,174,no es necesaria,62
+781,609,no es necesaria,74
+782,233,moto,10
+783,302,no es necesaria,94
+784,506,vehiculo de carga,68
+785,441,no es necesaria,45
+786,324,auto,25
+787,723,auto,109
+788,633,no es necesaria,74
+789,809,auto,2
+790,802,auto,36
+791,248,auto,18
+792,802,auto,71
+793,314,auto,40
+794,602,auto,38
+795,699,auto,85
+796,369,no es necesaria,53
+797,124,auto,87
+798,100,moto,80
+799,89,moto,89
+800,678,auto,87
+801,104,auto,59
+802,340,auto,7
+803,459,auto,40
+804,389,auto,73
+805,153,no es necesaria,47
+806,183,auto,57
+807,483,auto,41
+808,654,auto,101
+809,599,moto,79
+810,196,auto,41
+811,689,vehiculo de carga,107
+812,667,moto,9
+813,368,no es necesaria,21
+814,93,no es necesaria,74
+815,485,no es necesaria,62
+816,476,auto,100
+817,464,auto,105
+818,437,vehiculo de carga,20
+819,275,auto,57
+820,539,no es necesaria,94
+821,91,auto,43
+822,678,auto,95
+823,224,auto,113
+824,254,auto,18
+825,300,auto,31
+826,523,auto,46
+827,559,auto,41
+828,555,moto,91
+829,63,auto,73
+830,753,auto,33
+831,421,auto,85
+832,524,auto,12
+833,657,moto,48
+834,559,auto,81
+835,327,auto,105
+836,787,vehiculo de carga,107
+837,509,auto,36
+838,8,no es necesaria,53
+839,584,auto,4
+840,14,auto,110
+841,148,auto,55
+842,742,auto,99
+843,692,auto,36
+844,791,moto,78
+845,680,auto,46
+846,346,no es necesaria,44
+847,430,vehiculo de carga,49
+848,250,moto,91
+849,12,moto,15
+850,383,no es necesaria,108
+851,682,no es necesaria,6
+852,275,moto,27
+853,576,auto,64
+854,214,auto,39
+855,455,vehiculo de carga,70
+856,718,no es necesaria,42
+857,276,no es necesaria,45
+858,396,moto,78
+859,802,auto,59
+860,332,auto,106
+861,686,auto,103
+862,628,moto,111
+863,205,moto,8
+864,820,auto,106
+865,658,auto,32
+866,95,auto,90
+867,40,moto,111
+868,380,auto,14
+869,120,auto,56
+870,327,auto,41
+871,378,moto,10
+872,712,auto,28
+873,699,no es necesaria,30
+874,653,vehiculo de carga,23
+875,435,moto,79
+876,245,no es necesaria,82
+877,430,vehiculo de carga,20
+878,661,auto,77
+879,635,auto,7
+880,814,auto,2
+881,523,no es necesaria,16
+882,823,no es necesaria,60
+883,187,moto,27
+884,399,auto,113
+885,537,auto,116
+886,563,auto,58
+887,814,vehiculo de carga,26
+888,536,auto,109
+889,411,no es necesaria,34
+890,63,moto,24
+891,733,auto,90
+892,276,moto,78
+893,620,moto,3
+894,777,auto,105
+895,794,vehiculo de carga,23
+896,258,vehiculo de carga,68
+897,72,moto,9
+898,289,no es necesaria,44
+899,736,moto,10
+900,756,auto,0
+901,331,auto,57
+902,347,no es necesaria,47
+903,445,moto,27
+904,760,auto,56
+905,407,vehiculo de carga,49
+906,556,auto,93
+907,137,auto,103
+908,445,vehiculo de carga,107
+909,624,auto,66
+910,378,auto,4
+911,700,vehiculo de carga,86
+912,73,moto,78
+913,718,auto,93
+914,560,auto,41
+915,18,auto,4
+916,253,auto,103
+917,156,auto,59
+918,59,auto,19
+919,478,moto,91
+920,463,moto,61
+921,395,auto,73
+922,630,auto,59
+923,595,no es necesaria,35
+924,586,auto,100
+925,763,no es necesaria,29
+926,519,auto,56
+927,235,auto,105
+928,36,no es necesaria,35
+929,582,moto,24
+930,703,vehiculo de carga,65
+931,71,moto,78
+932,116,moto,79
+933,314,moto,10
+934,706,auto,103
+935,707,auto,25
+936,65,moto,111
+937,593,no es necesaria,60
+938,813,auto,100
+939,254,auto,2
+940,273,no es necesaria,44
+941,744,auto,40
+942,146,vehiculo de carga,68
+943,63,auto,102
+944,274,auto,84
+945,388,auto,75
+946,363,auto,39
+947,520,auto,84
+948,720,no es necesaria,74
+949,336,auto,90
+950,745,moto,1
+951,282,no es necesaria,42
+952,654,moto,69
+953,466,no es necesaria,82
+954,238,moto,27
+955,693,moto,3
+956,133,vehiculo de carga,26
+957,778,auto,51
+958,99,auto,19
+959,376,no es necesaria,62
+960,296,no es necesaria,34
+961,168,auto,38
+962,381,no es necesaria,74
+963,145,no es necesaria,112
+964,605,no es necesaria,29
+965,652,moto,72
+966,495,moto,79
+967,145,vehiculo de carga,70
+968,362,auto,38
+969,634,moto,24
+970,543,auto,100
+971,40,no es necesaria,67
+972,488,auto,40
+973,185,no es necesaria,21
+974,645,no es necesaria,104
+975,733,vehiculo de carga,49
+976,230,auto,93
+977,598,no es necesaria,112
+978,518,auto,93
+979,615,moto,37
+980,184,auto,113
+981,25,auto,95
+982,537,moto,10
+983,790,moto,15
+984,20,auto,32
+985,342,vehiculo de carga,86
+986,97,no es necesaria,53
+987,328,vehiculo de carga,54
+988,97,moto,63
+989,710,vehiculo de carga,115
+990,289,no es necesaria,16
+991,101,no es necesaria,21
+992,518,no es necesaria,53
+993,624,moto,15
+994,578,moto,78
+995,593,no es necesaria,16
+996,304,vehiculo de carga,86
+997,725,auto,28
+998,655,auto,75
+999,477,auto,71
+1000,424,moto,24
+1001,625,vehiculo de carga,86
+1002,742,moto,89
+1003,639,auto,114
+1004,518,no es necesaria,60
+1005,511,no es necesaria,112
+1006,304,vehiculo de carga,54
+1007,410,moto,10
+1008,49,auto,66
+1009,614,vehiculo de carga,107
+1010,442,moto,69
+1011,372,vehiculo de carga,115
+1012,423,no es necesaria,50
+1013,206,no es necesaria,112
+1014,606,auto,57
+1015,665,moto,37
+1016,646,vehiculo de carga,65
+1017,412,moto,69
+1018,502,auto,90
+1019,404,auto,93
+1020,52,no es necesaria,35
+1021,103,auto,36
+1022,298,auto,84
+1023,513,moto,79
+1024,511,vehiculo de carga,115
+1025,363,no es necesaria,53
+1026,455,auto,32
+1027,707,moto,76
+1028,257,auto,81
+1029,632,auto,25
+1030,573,auto,116
+1031,311,auto,18
+1032,619,auto,0
+1033,284,moto,1
+1034,462,auto,7
+1035,512,no es necesaria,67
+1036,567,auto,31
+1037,699,vehiculo de carga,65
+1038,287,no es necesaria,16
+1039,37,no es necesaria,22
+1040,281,auto,25
+1041,158,vehiculo de carga,49
+1042,227,auto,93
+1043,194,auto,66
+1044,32,vehiculo de carga,26
+1045,654,no es necesaria,74
+1046,624,moto,69
+1047,126,auto,51
+1048,106,vehiculo de carga,49
+1049,643,vehiculo de carga,115
+1050,702,no es necesaria,112
+1051,640,no es necesaria,6
+1052,342,no es necesaria,94
+1053,298,no es necesaria,53
+1054,109,auto,14
+1055,369,auto,58
+1056,513,auto,51
+1057,429,vehiculo de carga,49
+1058,128,no es necesaria,104
+1059,562,no es necesaria,44
+1060,254,auto,113
+1061,505,no es necesaria,62
+1062,542,vehiculo de carga,115
+1063,345,auto,39
+1064,132,moto,91
+1065,104,moto,69
+1066,42,auto,19
+1067,716,vehiculo de carga,65
+1068,243,no es necesaria,74
+1069,526,auto,87
+1070,664,auto,90
+1071,375,vehiculo de carga,65
+1072,582,auto,28
+1073,673,no es necesaria,96
+1074,187,auto,32
+1075,331,auto,13
+1076,477,auto,64
+1077,511,auto,28
+1078,342,auto,52
+1079,262,no es necesaria,35
+1080,316,no es necesaria,74
+1081,265,no es necesaria,34
+1082,578,moto,89
+1083,156,auto,103
+1084,459,auto,40
+1085,273,moto,3
+1086,783,auto,28
+1087,573,auto,55
+1088,517,moto,98
+1089,384,auto,28
+1090,267,moto,111
+1091,240,moto,97
+1092,602,moto,89
+1093,490,auto,87
+1094,335,no es necesaria,94
+1095,479,no es necesaria,96
+1096,398,no es necesaria,94
+1097,658,no es necesaria,62
+1098,483,auto,32
+1099,392,auto,109
+1100,381,auto,102
+1101,602,auto,99
+1102,11,no es necesaria,16
+1103,573,moto,8
+1104,614,auto,38
+1105,169,moto,91
+1106,14,no es necesaria,62
+1107,731,no es necesaria,34
+1108,313,vehiculo de carga,17
+1109,673,no es necesaria,35
+1110,95,vehiculo de carga,107
+1111,715,no es necesaria,44
+1112,173,no es necesaria,6
+1113,516,moto,98
+1114,780,auto,4
+1115,423,vehiculo de carga,107
+1116,172,moto,89
+1117,194,auto,101
+1118,737,no es necesaria,104
+1119,497,moto,98
+1120,216,moto,91
+1121,615,moto,24
+1122,384,moto,63
+1123,12,moto,8
+1124,220,no es necesaria,50
+1125,575,vehiculo de carga,23
+1126,484,auto,103
+1127,191,auto,64
+1128,553,auto,58
+1129,618,moto,24
+1130,690,moto,11
+1131,768,auto,14
+1132,768,auto,12
+1133,483,auto,114
+1134,158,auto,5
+1135,89,auto,43
+1136,122,no es necesaria,108
+1137,324,no es necesaria,22
+1138,103,auto,93
+1139,221,auto,64
+1140,652,auto,77
+1141,421,no es necesaria,47
+1142,300,no es necesaria,108
+1143,65,vehiculo de carga,70
+1144,698,no es necesaria,47
+1145,550,vehiculo de carga,20
+1146,116,auto,93
+1147,660,auto,36
+1148,520,auto,99
+1149,84,auto,39
+1150,42,auto,64
+1151,183,auto,88
+1152,273,auto,31
+1153,115,auto,81
+1154,324,no es necesaria,82
+1155,313,auto,105
+1156,525,moto,9
+1157,168,no es necesaria,74
+1158,546,vehiculo de carga,17
+1159,794,auto,105
+1160,84,auto,58
+1161,38,auto,7
+1162,787,no es necesaria,21
+1163,686,auto,12
+1164,664,moto,1
+1165,615,auto,5
+1166,661,auto,7
+1167,151,no es necesaria,62
+1168,535,moto,111
+1169,315,auto,18
+1170,259,no es necesaria,35
+1171,690,vehiculo de carga,54
+1172,296,moto,80
+1173,23,no es necesaria,22
+1174,240,auto,101
+1175,683,no es necesaria,29
+1176,136,vehiculo de carga,23
+1177,657,no es necesaria,60
+1178,506,moto,37
+1179,630,vehiculo de carga,86
+1180,351,auto,28
+1181,409,moto,24
+1182,407,vehiculo de carga,68
+1183,99,moto,9
+1184,291,vehiculo de carga,26
+1185,792,auto,25
+1186,799,moto,61
+1187,717,moto,8
+1188,575,moto,27
+1189,669,moto,79
+1190,187,auto,14
+1191,366,auto,114
+1192,61,auto,4
+1193,372,vehiculo de carga,23
+1194,381,auto,55
+1195,411,auto,32
+1196,130,moto,37
+1197,221,moto,27
+1198,243,moto,69
+1199,153,moto,89
+1200,815,vehiculo de carga,115
+1201,779,no es necesaria,22
+1202,154,no es necesaria,67
+1203,734,moto,79
+1204,432,moto,69
+1205,6,no es necesaria,47
+1206,761,vehiculo de carga,26
+1207,600,vehiculo de carga,83
+1208,404,auto,85
+1209,153,auto,13
+1210,677,auto,38
+1211,708,moto,15
+1212,578,no es necesaria,44
+1213,636,no es necesaria,74
+1214,810,no es necesaria,47
+1215,563,vehiculo de carga,17
+1216,526,auto,87
+1217,289,vehiculo de carga,49
+1218,369,no es necesaria,104
+1219,207,auto,81
+1220,86,moto,37
+1221,281,vehiculo de carga,17
+1222,96,auto,101
+1223,392,moto,63
+1224,306,auto,102
+1225,53,auto,59
+1226,543,auto,66
+1227,591,no es necesaria,29
+1228,220,moto,8
+1229,118,auto,0
+1230,515,moto,78
+1231,497,vehiculo de carga,70
+1232,424,auto,57
+1233,705,no es necesaria,16
+1234,33,auto,88
+1235,812,moto,1
+1236,120,auto,52
+1237,625,auto,12
+1238,246,auto,46
+1239,183,auto,114
+1240,323,no es necesaria,30
+1241,334,no es necesaria,44
+1242,311,auto,46
+1243,277,moto,10
+1244,318,auto,87
+1245,644,auto,99
+1246,96,no es necesaria,16
+1247,591,auto,32
+1248,641,vehiculo de carga,17
+1249,757,auto,0
+1250,206,no es necesaria,21
+1251,192,auto,109
+1252,154,auto,85
+1253,114,no es necesaria,67
+1254,58,vehiculo de carga,20
+1255,797,auto,28
+1256,115,no es necesaria,22
+1257,392,auto,39
+1258,611,moto,48
+1259,291,auto,19
+1260,554,auto,90
+1261,615,auto,116
+1262,515,auto,90
+1263,339,auto,88
+1264,691,no es necesaria,104
+1265,350,auto,41
+1266,388,auto,55
+1267,523,moto,27
+1268,726,auto,28
+1269,306,auto,81
+1270,240,auto,38
+1271,534,auto,85
+1272,398,auto,46
+1273,264,moto,98
+1274,715,auto,13
+1275,118,auto,31
+1276,216,vehiculo de carga,83
+1277,710,auto,40
+1278,29,no es necesaria,6
+1279,811,no es necesaria,47
+1280,462,moto,69
+1281,75,vehiculo de carga,70
+1282,636,auto,46
+1283,693,no es necesaria,34
+1284,110,auto,64
+1285,619,auto,18
+1286,200,vehiculo de carga,20
+1287,444,auto,102
+1288,33,auto,87
+1289,554,auto,100
+1290,79,moto,97
+1291,133,auto,109
+1292,692,auto,103
+1293,9,no es necesaria,74
+1294,356,auto,33
+1295,586,auto,46
+1296,816,moto,61
+1297,803,moto,1
+1298,531,auto,100
+1299,177,auto,55
+1300,657,moto,111
+1301,768,auto,100
+1302,118,vehiculo de carga,86
+1303,423,auto,55
+1304,741,moto,80
+1305,317,auto,32
+1306,474,auto,114
+1307,574,auto,57
+1308,118,vehiculo de carga,70
+1309,291,auto,41
+1310,335,moto,80
+1311,477,vehiculo de carga,20
+1312,270,no es necesaria,104
+1313,357,moto,72
+1314,709,auto,28
+1315,744,auto,75
+1316,156,auto,2
+1317,28,moto,97
+1318,614,auto,31
+1319,358,auto,64
+1320,101,auto,59
+1321,381,moto,91
+1322,242,auto,100
+1323,687,moto,9
+1324,561,auto,110
+1325,660,vehiculo de carga,65
+1326,629,no es necesaria,35
+1327,355,auto,93
+1328,353,auto,0
+1329,738,no es necesaria,50
+1330,285,vehiculo de carga,26
+1331,497,auto,102
+1332,119,auto,71
+1333,697,vehiculo de carga,54
+1334,697,no es necesaria,108
+1335,441,vehiculo de carga,83
+1336,333,moto,69
+1337,653,auto,12
+1338,742,auto,64
+1339,144,no es necesaria,108
+1340,276,no es necesaria,108
+1341,548,auto,55
+1342,575,no es necesaria,108
+1343,442,auto,58
+1344,598,auto,19
+1345,575,auto,32
+1346,496,auto,19
+1347,0,auto,0
+1348,65,auto,56
+1349,414,auto,59
+1350,357,no es necesaria,16
+1351,192,no es necesaria,30
+1352,674,auto,55
+1353,115,no es necesaria,16
+1354,681,auto,66
+1355,734,no es necesaria,108
+1356,188,no es necesaria,104
+1357,537,auto,100
+1358,167,auto,77
+1359,484,no es necesaria,16
+1360,246,auto,114
+1361,116,auto,71
+1362,397,no es necesaria,74
+1363,553,no es necesaria,74
+1364,26,auto,84
+1365,437,no es necesaria,104
+1366,123,auto,40
+1367,579,moto,91
+1368,465,auto,41
+1369,610,auto,64
+1370,715,no es necesaria,50
+1371,592,no es necesaria,60
+1372,321,auto,90
+1373,149,auto,0
+1374,810,auto,87
+1375,741,no es necesaria,6
+1376,140,no es necesaria,62
+1377,756,moto,76
+1378,262,moto,69
+1379,601,moto,98
+1380,592,auto,0
+1381,85,moto,24
+1382,181,auto,102
+1383,695,auto,25
+1384,539,no es necesaria,96
+1385,20,no es necesaria,108
+1386,803,no es necesaria,47
+1387,653,moto,11
+1388,707,no es necesaria,35
+1389,59,moto,89
+1390,506,auto,110
+1391,361,auto,114
+1392,238,moto,10
+1393,640,auto,114
+1394,181,vehiculo de carga,70
+1395,130,auto,51
+1396,448,auto,56
+1397,642,auto,25
+1398,780,moto,10
+1399,232,auto,14
+1400,110,moto,78
+1401,757,moto,15
+1402,167,no es necesaria,62
+1403,744,vehiculo de carga,49
+1404,485,auto,93
+1405,617,moto,3
+1406,336,no es necesaria,94
+1407,12,no es necesaria,82
+1408,416,no es necesaria,45
+1409,165,moto,98
+1410,106,moto,24
+1411,129,auto,33
+1412,459,auto,41
+1413,350,vehiculo de carga,23
+1414,483,no es necesaria,29
+1415,525,auto,87
+1416,525,moto,72
+1417,596,vehiculo de carga,26
+1418,550,moto,1
+1419,52,auto,33
+1420,86,auto,93
+1421,464,no es necesaria,74
+1422,291,moto,76
+1423,636,auto,36
+1424,548,auto,77
+1425,671,moto,79
+1426,698,no es necesaria,62
+1427,776,moto,97
+1428,37,no es necesaria,21
+1429,671,vehiculo de carga,26
+1430,540,moto,92
+1431,300,no es necesaria,96
+1432,67,no es necesaria,45
+1433,67,auto,99
+1434,539,vehiculo de carga,26
+1435,314,no es necesaria,44
+1436,119,no es necesaria,108
+1437,551,moto,61
+1438,437,moto,80
+1439,555,auto,87
+1440,456,no es necesaria,42
+1441,159,vehiculo de carga,49
+1442,711,moto,63
+1443,268,moto,61
+1444,299,moto,10
+1445,609,auto,25
+1446,351,moto,9
+1447,551,vehiculo de carga,20
+1448,523,vehiculo de carga,65
+1449,189,auto,31
+1450,25,auto,18
+1451,707,vehiculo de carga,107
+1452,636,auto,64
+1453,705,auto,88
+1454,736,auto,64
+1455,452,auto,55
+1456,42,auto,28
+1457,679,no es necesaria,94
+1458,264,auto,59
+1459,790,auto,2
+1460,772,auto,102
+1461,102,auto,55
+1462,749,no es necesaria,96
+1463,761,auto,105
+1464,96,auto,28
+1465,91,moto,79
+1466,466,vehiculo de carga,20
+1467,82,no es necesaria,96
+1468,20,auto,43
+1469,620,no es necesaria,94
+1470,315,auto,59
+1471,299,no es necesaria,6
+1472,429,auto,93
+1473,125,auto,58
+1474,712,moto,63
+1475,458,auto,73
+1476,779,auto,113
+1477,391,moto,24
+1478,165,auto,57
+1479,132,auto,75
+1480,403,moto,97
+1481,328,auto,7
+1482,694,moto,10
+1483,593,no es necesaria,45
+1484,377,vehiculo de carga,54
+1485,67,moto,78
+1486,382,auto,13
+1487,97,auto,46
+1488,345,auto,56
+1489,415,auto,114
+1490,646,no es necesaria,62
+1491,456,no es necesaria,34
+1492,393,vehiculo de carga,107
+1493,695,moto,78
+1494,502,moto,78
+1495,736,moto,15
+1496,654,no es necesaria,108
+1497,389,no es necesaria,108
+1498,36,auto,90
+1499,136,no es necesaria,108
+1500,797,moto,48
+1501,785,auto,28
+1502,798,auto,90
+1503,287,no es necesaria,42
+1504,159,vehiculo de carga,65
+1505,316,auto,59
+1506,799,auto,18
+1507,728,no es necesaria,29
+1508,286,moto,63
+1509,181,auto,101
+1510,72,no es necesaria,6
+1511,161,auto,36
+1512,610,vehiculo de carga,17
+1513,534,no es necesaria,22
+1514,612,auto,90
+1515,169,no es necesaria,45
+1516,217,auto,116
+1517,804,no es necesaria,21
+1518,641,auto,85
+1519,242,auto,93
+1520,21,moto,27
+1521,323,auto,95
+1522,191,auto,33
+1523,478,auto,2
+1524,805,auto,71
+1525,424,auto,88
+1526,676,auto,38
+1527,776,moto,69
+1528,716,moto,9
+1529,701,auto,88
+1530,119,moto,9
+1531,618,auto,38
+1532,159,vehiculo de carga,86
+1533,157,moto,89
+1534,55,auto,100
+1535,345,auto,14
+1536,635,auto,28
+1537,737,auto,19
+1538,655,no es necesaria,60
+1539,476,no es necesaria,50
+1540,243,auto,4
+1541,372,auto,105
+1542,621,vehiculo de carga,115
+1543,429,no es necesaria,35
+1544,718,no es necesaria,82
+1545,214,moto,37
+1546,398,no es necesaria,35
+1547,534,moto,111
+1548,466,auto,18
+1549,38,vehiculo de carga,20
+1550,247,auto,57
+1551,39,moto,37
+1552,670,auto,66
+1553,603,moto,111
+1554,157,vehiculo de carga,83
+1555,18,moto,98
+1556,336,no es necesaria,35
+1557,579,auto,39
+1558,61,no es necesaria,50
+1559,728,moto,11
+1560,20,no es necesaria,60
+1561,815,auto,40
+1562,444,no es necesaria,60
+1563,332,auto,106
+1564,535,no es necesaria,34
+1565,95,vehiculo de carga,20
+1566,12,no es necesaria,82
+1567,142,moto,92
+1568,129,auto,4
+1569,39,no es necesaria,21
+1570,559,auto,14
+1571,603,moto,63
+1572,595,no es necesaria,60
+1573,198,auto,25
+1574,470,moto,8
+1575,230,auto,71
+1576,693,auto,41
+1577,691,no es necesaria,34
+1578,681,auto,71
+1579,177,auto,103
+1580,257,auto,12
+1581,368,auto,32
+1582,270,vehiculo de carga,83
+1583,207,auto,64
+1584,602,moto,78
+1585,37,moto,76
+1586,472,moto,1
+1587,127,moto,9
+1588,600,vehiculo de carga,68
+1589,717,moto,63
+1590,141,no es necesaria,53
+1591,678,auto,4
+1592,772,moto,76
+1593,584,moto,98
+1594,486,auto,109
+1595,2,no es necesaria,67
+1596,336,no es necesaria,94
+1597,759,auto,87
+1598,645,auto,110
+1599,689,vehiculo de carga,17
+1600,749,no es necesaria,21
+1601,655,no es necesaria,47
+1602,236,no es necesaria,45
+1603,422,auto,99
+1604,224,auto,40
+1605,513,moto,1
+1606,257,auto,31
+1607,32,vehiculo de carga,65
+1608,518,auto,2
+1609,811,auto,19
+1610,178,auto,7
+1611,472,no es necesaria,50
+1612,466,no es necesaria,60
+1613,239,moto,11
+1614,49,auto,88
+1615,672,moto,27
+1616,801,auto,99
+1617,425,moto,37
+1618,531,auto,99
+1619,191,moto,78
+1620,629,no es necesaria,22
+1621,810,auto,103
+1622,521,moto,89
+1623,18,moto,10
+1624,128,no es necesaria,6
+1625,205,no es necesaria,44
+1626,579,vehiculo de carga,86
+1627,652,auto,77
+1628,479,auto,58
+1629,757,auto,25
+1630,793,auto,110
+1631,185,no es necesaria,50
+1632,75,auto,102
+1633,82,auto,59
+1634,144,moto,24
+1635,26,vehiculo de carga,17
+1636,191,no es necesaria,29
+1637,342,no es necesaria,42
+1638,699,auto,13
+1639,800,moto,3
+1640,187,vehiculo de carga,54
+1641,493,auto,73
+1642,507,auto,105
+1643,553,auto,28
+1644,596,moto,63
+1645,344,auto,64
+1646,334,auto,75
+1647,697,auto,66
+1648,530,auto,102
+1649,605,auto,116
+1650,339,vehiculo de carga,23
+1651,251,no es necesaria,35
+1652,490,auto,51
+1653,353,moto,76
