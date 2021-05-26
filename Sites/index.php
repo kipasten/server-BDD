@@ -20,7 +20,7 @@
 
 
 <!-- Consulta 2 -->
-  <h3 align="center"> Escribe una comuna y clickea para ver todos los vehiculos de las unidades ubicada en ella</h3>
+  <h3 align="center"> Escribe una comuna para ver todos los vehículos de las unidades ubicadas en ella</h3>
 
   <form align="center" action="consultas/consulta_2.php" method="post">
     Comuna:
@@ -35,8 +35,8 @@
 
 
 <!-- Consulta 3 -->
-  <h3 align="center"> Escribe una comuna y selecciona un año para ver los vehiculos que realizaron despachos
-  en dicha comuna y tal periodo</h3>
+  <h3 align="center"> Escribe una comuna y selecciona un año para ver los vehículos que realizaron despachos
+  a dicha comuna en ese año</h3>
 
   <?php
   #Obtenemos todos los años en que se hayan hecho despachos
@@ -68,8 +68,8 @@
 
 
 <!-- Consulta 4 -->
-  <h3 align="center"> Escribe una tipo de vehículo y selecciona dos edades para ver los despachos 
-  que se realizaron por un vehiculo de este tipo por un repartidor de edad en el rango seleccionado</h3>
+  <h3 align="center"> Escribe un tipo de vehículo y selecciona dos edades para ver los despachos 
+  realizados por un vehículo de ese tipo por un repartidor de edad en el rango seleccionado</h3>
 
   <?php
   #Obtenemos todos los años en que se hayan hecho despachos
@@ -128,7 +128,7 @@
 
 
 <!-- Consulta 6 -->
-  <h3 align="center"> Escribe un tipo de vehiculo para ver la unidad que maneja la mayor cantidad de estos</h3>
+  <h3 align="center"> Escribe un tipo de vehículo para ver la unidad que maneja la mayor cantidad de estos</h3>
 
   <form align="center" action="consultas/consulta_6.php" method="post">
     Tipo de vehículo:
