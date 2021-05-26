@@ -8,7 +8,7 @@
 
 	$comuna = $_POST["comuna_elegida"];
   #Pasamos lo ingresado a miniscula
-  $comuna = strtolower(string $comuna)
+  $comuna = strtolower($comuna)
 
   #Realizamos la consulta
  	$query = "SELECT V.id_vehiculo, V.tipo, V.patente, V.estado
