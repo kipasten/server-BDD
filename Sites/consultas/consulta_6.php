@@ -13,7 +13,7 @@
 
   #Realizamos la consulta
  	$query = "SELECT * 
-            FROM (SELECT id_unidad, tipo, COUNT(tipo) as cantidad_vehiculo
+            FROM (SELECT id_unidad, COUNT(tipo) as cantidad_vehiculo
             FROM Vehiculos
             WHERE tipo LIKE '%$tipo_vehiculo%'
             GROUP BY id_unidad) as D
@@ -31,12 +31,11 @@
 	<table>
     <tr>
       <th>ID Unidad</th>
-      <th>Tipo</th>
       <th>Cantidad de vehículos</th>
     </tr>
   <?php
 	foreach ($vehiculos as $veh) {
-      echo "<tr> <td>$veh[0]</td> <td>$veh[1]</td> <td>$veh[2]</td> </tr>";
+      echo "<tr> <td>$veh[0]</td> <td>$veh[1]</td> </tr>";
 	}
   ?>
 	</table>
