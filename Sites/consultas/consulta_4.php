@@ -21,6 +21,9 @@
     $edad_1 = $edad_2;
     $edad_2 = $edad_3;
 
+  echo $edad_1;
+  echo $edad_2;
+
   #Realizamos la consulta
  	$query = "SELECT De.id_despacho, De.fecha, De.id_compra, De.id_vehiculo, De.id_repartidor
             FROM Despachos as De, Vehiculos as V, Personal as P

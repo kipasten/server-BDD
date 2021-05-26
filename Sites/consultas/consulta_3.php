@@ -14,7 +14,7 @@
   $año = intval($año);
 
   #Realizamos la consulta
- 	$query = "SELECT DISTINCT V.id_vehiculo, V.tipo, V.patente, V.estado
+ 	$query = "SELECT DISTINCT D.comuna, V.id_vehiculo, V.tipo, V.patente, V.estado
             FROM Vehiculos as V, Despachos as De, Direcciones as D
             WHERE De.id_direccion_destino = D.id_direccion
             AND De.id_vehiculo = V.id_vehiculo

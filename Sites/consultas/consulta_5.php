@@ -24,7 +24,7 @@
             FROM Personal as P, Unidades as U, CoberturaUnidades as CU
             WHERE P.id_personal = U.jefe_id
             AND U.id_unidad = CU.id_unidad
-            AND CU.comuna = LIKE '%$comuna_2%';";
+            AND CU.comuna LIKE '%$comuna_2%';";
 	$result = $db -> prepare($query);
 	$result -> execute();
 	$jefes = $result -> fetchAll();

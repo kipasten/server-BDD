@@ -11,7 +11,7 @@
   $comuna = strtolower($comuna);
 
   #Realizamos la consulta
- 	$query = "SELECT V.id_vehiculo, V.tipo, V.patente, V.estado
+ 	$query = "SELECT D.comuna, V.id_vehiculo, V.tipo, V.patente, V.estado
             FROM Unidades as U, Direcciones as D, Vehiculos as V
             WHERE U.id_direccion = D.id_direccion
             AND V.id_unidad = U.id_unidad
