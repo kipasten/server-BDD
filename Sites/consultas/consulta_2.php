@@ -23,6 +23,7 @@
 
 	<table>
     <tr>
+      <td>Comuna</td>
       <th>ID Vehículo</th>
       <th>Tipo</th>
       <th>Patente</th>
@@ -30,7 +31,7 @@
     </tr>
   <?php
 	foreach ($vehiculos as $veh) {
-  		echo "<tr> <td>$veh[0]</td> <td>$veh[1]</td> <td>$veh[2]</td> <td>$veh[3]</td> </tr>";
+  		echo "<tr> <td>$veh[0]</td> <td>$veh[1]</td> <td>$veh[2]</td> <td>$veh[3]</td> <td>$veh[4]</td> </tr>";
 	}
   ?>
 	</table>

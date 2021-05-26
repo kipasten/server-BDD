@@ -16,16 +16,14 @@
   $edad_2 = intval($edad_2);
 
   #Aqui ordenamos las edades en caso de que entreguen una edad mas grande primero
-  if ($edad_1 > $edad_2)
+  if ($edad_1 > $edad_2){
     $edad_3 = $edad_1;
     $edad_1 = $edad_2;
     $edad_2 = $edad_3;
-
-  echo $edad_1;
-  echo $edad_2;
+  }
 
   #Realizamos la consulta
- 	$query = "SELECT De.id_despacho, De.fecha, De.id_compra, De.id_vehiculo, De.id_repartidor
+ 	$query = "SELECT De.id_despacho, De.fecha, De.id_compra, De.id_vehiculo, V.tipo, De.id_repartidor
             FROM Despachos as De, Vehiculos as V, Personal as P
             WHERE De.id_vehiculo = V.id_vehiculo
             AND De.id_repartidor = P.id_personal
@@ -42,11 +40,12 @@
       <th>Fecha</th>
       <th>ID Compra</th>
       <th>ID Vehículo</th>
+      <th>Tipo</th>
       <th>ID Repartidor</th>
     </tr>
   <?php
 	foreach ($despachos as $des) {
-      echo "<tr> <td>$des[0]</td> <td>$des[1]</td> <td>$des[2]</td> <td>$des[3]</td> <td>$des[4]</td> </tr>";
+      echo "<tr> <td>$des[0]</td> <td>$des[1]</td> <td>$des[2]</td> <td>$des[3]</td> <td>$des[4]</td> <td>$des[5]</td></tr>";
 	}
   ?>
 	</table>
