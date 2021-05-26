@@ -11,9 +11,9 @@
   $edad_2 = $_POST["edad_2_elegida"];
 
   #Pasamos las entradas a minuscula o ajustamos tipo de dato
-  $tipo_vehiculo = strtolower(string $tipo_vehiculo)
-  $edad_1 = intval($edad_1)
-  $edad_2 = intval($edad_2)
+  $tipo_vehiculo = strtolower($tipo_vehiculo);
+  $edad_1 = intval($edad_1);
+  $edad_2 = intval($edad_2);
 
   #Aqui ordenamos las edades en caso de que entreguen una edad mas grande primero
   if ($edad_1 > $edad_2)

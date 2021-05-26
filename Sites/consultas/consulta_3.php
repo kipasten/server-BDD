@@ -10,8 +10,8 @@
 	$año = $_POST["año_elegido"];
 
   #Pasamos las entradas a minuscula o ajustamos tipo de dato
-  $comuna = strtolower(string $comuna)
-  $año = intval($año)
+  $comuna = strtolower($comuna);
+  $año = intval($año);
 
   #Realizamos la consulta
  	$query = "SELECT DISTINCT V.id_vehiculo, V.tipo, V.patente, V.estado

@@ -10,8 +10,8 @@
 	$comuna_2 = $_POST["segunda_comuna_elegida"];
 
   #Pasamos las entradas a minuscula
-  $comuna_1 = strtolower(string $comuna_1)
-  $comuna_2 = strtolower(string $comuna_2)
+  $comuna_1 = strtolower($comuna_1);
+  $comuna_2 = strtolower($comuna_2);
 
   #Realizamos la consulta
  	$query = "SELECT U.id_unidad, P.nombre, P.rut, P.sexo

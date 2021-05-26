@@ -9,7 +9,7 @@
 	$tipo_vehiculo = $_POST["tipo_vehiculo_elegido"];
 
   #Pasamos la entrada a minuscula
-  $tipo_vehiculo = strtolower(string $tipo_vehiculo)
+  $tipo_vehiculo = strtolower($tipo_vehiculo);
 
   #Realizamos la consulta
  	$query = "SELECT * 
