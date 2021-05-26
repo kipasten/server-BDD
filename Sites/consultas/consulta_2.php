@@ -23,7 +23,7 @@
 
 	<table>
     <tr>
-      <td>Comuna</td>
+      <th>Comuna</th>
       <th>ID Vehículo</th>
       <th>Tipo</th>
       <th>Patente</th>
