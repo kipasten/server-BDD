@@ -28,7 +28,7 @@
 	<table>
     <tr>
       <th>Comuna</th>
-      <th>ID Vehiculo</th>
+      <th>ID Vehículo</th>
       <th>Tipo</th>
       <th>Patente</th>
       <th>Estado</th>
