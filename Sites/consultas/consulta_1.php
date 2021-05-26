@@ -7,7 +7,10 @@
   require("../config/conexion.php");
 
   #Realizamos la consulta
- 	$query = "SELECT U.id_unidad, D.nombre_direccion FROM Unidades as U, Direccions as D WHERE U.id_direccion = D.id_direccion;";
+ 	$query = "SELECT U.id_unidad, D.nombre_direccion 
+            FROM Unidades as U, Direcciones as D 
+            WHERE U.id_direccion = D.id_direccion
+            ORDER BY U.id_unidad;";
 	$result = $db -> prepare($query);
 	$result -> execute();
 	$direcciones = $result -> fetchAll();
