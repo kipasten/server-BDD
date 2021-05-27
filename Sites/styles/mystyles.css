@@ -18,7 +18,7 @@ input[type=submit] {
 
 button {
     background-color: green;
-    color: blue;
+    color: white;
     border: none;
     border-radius: 5px;
     font-size: 25px;
@@ -41,7 +41,9 @@ body {
     width: 100%;
     font-size: 20px;
     text-align: center;
-    background-image: 'gooddogo.jpg'; 
+    background-image: url('gooddogo.jpg'); 
+	background-size: cover;
+	background-attachment: fixed;
 }
 
 table.center {
