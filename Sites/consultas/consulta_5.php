@@ -15,7 +15,7 @@
 
   #Realizamos la consulta
  	$query = "SELECT *
-  FROM (SELECT U.id_unidad, P.nombre, P.rut, P.sexo
+            FROM (SELECT U.id_unidad, P.nombre, P.rut, P.sexo
             FROM Personal as P, Unidades as U, CoberturaUnidades as CU
             WHERE P.id_personal = U.jefe_id
             AND U.id_unidad = CU.id_unidad
@@ -25,8 +25,8 @@
             FROM Personal as P, Unidades as U, CoberturaUnidades as CU
             WHERE P.id_personal = U.jefe_id
             AND U.id_unidad = CU.id_unidad
-            AND CU.comuna LIKE '%$comuna_2%')as U
-            ORDER BY U.id_unidad;";
+            AND CU.comuna LIKE '%$comuna_2%') as C
+            ORDER BY C.id_unidad;";
 	$result = $db -> prepare($query);
 	$result -> execute();
 	$jefes = $result -> fetchAll();
