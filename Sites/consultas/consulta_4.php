@@ -46,7 +46,8 @@
     </tr>
   <?php
 	foreach ($despachos as $des) {
-      echo "<tr> <td>$des[0]</td> <td>$des[1]</td> <td>$des[2]</td> <td>$des[3]</td> <td>$des[4]</td> <td>$des[5]</td></tr> <td>$des[6]</td> </tr>";
+      echo "<tr> <td>$des[0]</td> <td>$des[1]</td> <td>$des[2]</td> <td>$des[3]</td> <td>$des[4]</td> 
+      <td>$des[5]</td> <td>$des[6]</td> </tr>";
 	}
   ?>
 	</table>
