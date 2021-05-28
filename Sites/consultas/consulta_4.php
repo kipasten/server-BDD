@@ -23,10 +23,11 @@
   }
 
   #Realizamos la consulta
- 	$query = "SELECT De.id_despacho, De.fecha, De.id_compra, De.id_vehiculo, V.tipo, De.id_repartidor
+ 	$query = "SELECT De.id_despacho, De.fecha, De.id_compra, V.id_unidad, De.id_vehiculo, V.tipo, De.id_repartidor
             FROM Despachos as De, Vehiculos as V, Personal as P
             WHERE De.id_vehiculo = V.id_vehiculo
             AND De.id_repartidor = P.id_personal
+            AND V.id_unidad = P.id_unidad
             AND V.tipo LIKE '%$tipo_vehiculo%'
             AND P.edad BETWEEN '$edad_1' AND '$edad_2';";
 	$result = $db -> prepare($query);
@@ -39,13 +40,15 @@
       <th>ID Despacho</th>
       <th>Fecha</th>
       <th>ID Compra</th>
+      <th>ID Unidad</th>
       <th>ID Vehículo</th>
       <th>Tipo</th>
       <th>ID Repartidor</th>
     </tr>
   <?php
 	foreach ($despachos as $des) {
-      echo "<tr> <td>$des[0]</td> <td>$des[1]</td> <td>$des[2]</td> <td>$des[3]</td> <td>$des[4]</td> <td>$des[5]</td></tr>";
+      echo "<tr> <td>$des[0]</td> <td>$des[1]</td> <td>$des[2]</td> <td>$des[3]</td> <td>$des[4]</td> 
+      <td>$des[5]</td></tr> <td>$des[6]</td></tr>";
 	}
   ?>
 	</table>

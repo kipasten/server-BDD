@@ -14,7 +14,7 @@
   $año = intval($año);
 
   #Realizamos la consulta
- 	$query = "SELECT DISTINCT D.comuna, V.id_vehiculo, V.tipo, V.patente, V.estado
+ 	$query = "SELECT DISTINCT D.comuna, V.id_unidad, V.id_vehiculo, V.tipo, V.patente, V.estado
             FROM Vehiculos as V, Despachos as De, Direcciones as D
             WHERE De.id_direccion_destino = D.id_direccion
             AND De.id_vehiculo = V.id_vehiculo
@@ -28,6 +28,7 @@
 	<table>
     <tr>
       <th>Comuna</th>
+      <th>ID Unidad</th>
       <th>ID Vehículo</th>
       <th>Tipo</th>
       <th>Patente</th>
@@ -35,7 +36,7 @@
     </tr>
   <?php
 	foreach ($vehiculos as $veh) {
-      echo "<tr> <td>$veh[0]</td> <td>$veh[1]</td> <td>$veh[2]</td> <td>$veh[3]</td> <td>$veh[4]</td> </tr>";
+      echo "<tr> <td>$veh[0]</td> <td>$veh[1]</td> <td>$veh[2]</td> <td>$veh[3]</td> <td>$veh[4]</td> <td>$veh[5]</td></tr>";
 	}
   ?>
 	</table>

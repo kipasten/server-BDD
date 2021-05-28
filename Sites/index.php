@@ -69,7 +69,7 @@
 
 <!-- Consulta 4 -->
   <h3 align="center"> Escribe un tipo de vehículo y selecciona dos edades para ver los despachos 
-  realizados por un vehículo de ese tipo por un repartidor de edad en el rango seleccionado</h3>
+  realizados en un vehículo de ese tipo por un repartidor de edad en el rango seleccionado</h3>
 
   <?php
   #Obtenemos todos los años en que se hayan hecho despachos
