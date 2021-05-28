@@ -1,19 +1,46 @@
-/* Este archivo no es necesario. Solo es para cambiar las propiedades de los objetos HTML
-Es mucho más fácil implementar una plantilla de Bootstrap que cambiar estas cosas a mano */
+body {
+    width: 100%;
+    font-size: 25px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-image: url('gooddogo.jpg'); 
+    background-size: cover;
+    background-attachment: fixed;
+    color: #EBEBEB;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #2E2A24;
+}
 
 input {
-    width: 10%;
-    height: 20px;
+    width: 15%;
+    height: 25px;
 }
 
 input[type=text] {
-    font-size: 20px;
+    font-size: 25px;
+    -webkit-text-stroke-width: 0px;
+    -webkit-text-stroke-color: #EBEBEB;
+    background-color: #2E2A24;
+    color: #EBEBEB;
 }
 
 input[type=submit] {
     width: 10em;
     height: 2em;
     font-size: 25px;
+    background-color: #348AA7;
+    color: #EBEBEB;
+    border-color: #2E2A24;
+    -webkit-text-stroke-width: 0px;
+}
+
+select {
+    font-size: 20px;
+    color: #2E2A24;
+    -webkit-text-stroke-width: 0px;
+    background-color: #2E2A24;
+    color: #EBEBEB;
 }
 
 button {
@@ -27,43 +54,43 @@ button {
 }
 
 h1 {
-    color: green;
+    color: #2E2A24;
+    text-shadow: 1.5px 1.5px #EBEBEB;
 }
 
-h1,
 h2,
 h3,
 h4 {
     text-align: center;
-}
+    color: #EBEBEB;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #2E2A24;
 
-body {
-    width: 100%;
-    font-size: 20px;
-    text-align: center;
-    background-image: url('gooddogo.jpg'); 
-	background-size: cover;
-	background-attachment: fixed;
 }
 
 table.center {
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid black;
+    border: 1px solid #2E2A24;
     width: 90%;
     text-align: center;
     font-size: 20px
 }
 
 th {
-    background-color: #4CAF50;
-    color: white;
-}
-
-tr:hover {
-    background-color: #f5f5f5;
+    background-color: #2E2A24;
+    color: #EBEBEB;
+    -webkit-text-stroke-width: 0px;
 }
 
 tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #A3A3A3;
+}
+
+tr:nth-child(odd) {
+    background-color: #7A7A7A;
+}
+
+tr:hover {
+    background-color: #44A5C5;
 }
