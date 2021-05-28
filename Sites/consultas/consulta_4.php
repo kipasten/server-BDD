@@ -27,7 +27,6 @@
             FROM Despachos as De, Vehiculos as V, Personal as P
             WHERE De.id_vehiculo = V.id_vehiculo
             AND De.id_repartidor = P.id_personal
-            AND V.id_unidad = P.id_unidad
             AND V.tipo LIKE '%$tipo_vehiculo%'
             AND P.edad BETWEEN '$edad_1' AND '$edad_2';";
 	$result = $db -> prepare($query);
