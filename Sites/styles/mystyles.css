@@ -34,6 +34,13 @@ input[type=submit] {
     border-color: #2E2A24;
     -webkit-text-stroke-width: 0px;
 }
+input[type=submit]:hover{
+    background-color:#5cafcc;
+}
+input[type=submit]:active {
+    transform: scale(0.98);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
 
 select {
     font-size: 20px;
